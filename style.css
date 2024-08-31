@@ -541,7 +541,7 @@ img, video {
 .marquee-content {
     display: inline-flex;
     white-space: nowrap;
-    animation: marquee 40s linear infinite;
+    animation: marquee 30s linear infinite;
     animation-delay: 1s;
 }
 
